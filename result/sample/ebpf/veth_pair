@@ -1,0 +1,15 @@
+docker-compose-payment-1 vethacabdfe
+docker-compose-shipping-1 veth1a807a1
+docker-compose-queue-master-1 veth3b7342c
+docker-compose-orders-1 veth96d0c1c
+docker-compose-rabbitmq-1 vethdbd8082
+docker-compose-carts-db-1 veth514cc24
+docker-compose-front-end-1 veth1af0bed
+docker-compose-catalogue-db-1 vethb89c2f0
+docker-compose-edge-router-1 vethdcfbbc9
+docker-compose-orders-db-1 vetha83e09a
+docker-compose-user-1 veth5e21e0f
+docker-compose-user-db-1 vethd421205
+docker-compose-user-sim-1 veth591959b
+docker-compose-carts-1 vethf3a1f0c
+docker-compose-catalogue-1 veth34a763b
